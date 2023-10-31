@@ -154,7 +154,9 @@ body {
 }
 
 .container .progress-bar button:hover {
-	opacity: 0.9;
+	background: var(--off-black-color);
+	border: 1px solid var(--off-white-color);
+
 }
 
 .container .progress-bar button img {
