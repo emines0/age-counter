@@ -1,0 +1,15 @@
+{
+   "name": "navbar-1",
+   "version": "1.0.0",
+   "description": "navigation bar",
+   "main": "script.js",
+   "scripts": {
+      "sass:build": "sass --no-source-map scss:css",
+      "sass:watch": "sass --no-source-map --watch scss:css"
+   },
+   "author": "k0der__ dev",
+   "license": "ISC",
+   "dependencies": {
+      "sass": "^1.69.3"
+   }
+}
